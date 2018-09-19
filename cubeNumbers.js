@@ -1,3 +1,3 @@
-function sq(x){
+function cb(x){
   return x * x * x;
 }
